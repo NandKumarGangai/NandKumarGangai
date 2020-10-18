@@ -24,3 +24,4 @@ Repo: Client -> https://github.com/NandKumarGangai/chat-client Server -> https:/
 Live: https://sheltered-brushlands-28733.herokuapp.com/
 
 **Codepen profile: https://codepen.io/nandkumar_gangai/**
+**Freecodecamp profile: https://www.freecodecamp.org/nandkumar_gangai**
