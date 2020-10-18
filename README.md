@@ -23,4 +23,4 @@ Live: https://immense-tundra-92559.herokuapp.com/
 Repo: Client -> https://github.com/NandKumarGangai/chat-client Server -> https://github.com/NandKumarGangai/chat-server
 Live: https://sheltered-brushlands-28733.herokuapp.com/
 
-**Codepen profile: https://codepen.io/nandkumar_gangai/ ** 
+**Codepen profile: https://codepen.io/nandkumar_gangai/**
