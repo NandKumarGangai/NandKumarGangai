@@ -39,6 +39,13 @@ Here are some ideas to get you started:
   Repo: https://github.com/NandKumarGangai/image-gallary
 
   Live: https://nandkumargangai.github.io/my-image-gallary/
+  
+### 5. Carousel Slider
+  Repo: https://github.com/NandKumarGangai/carousel_slider
+
+  Live: https://nandkumargangai.github.io/carousel_slider/
+  
+  
 
 **Codepen profile: https://codepen.io/nandkumar_gangai/**
 
