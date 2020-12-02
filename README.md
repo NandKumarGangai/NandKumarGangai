@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### 2. Group Chat App
   Repo: Client -> https://github.com/NandKumarGangai/chat-client Server -> https://github.com/NandKumarGangai/chat-server
 
-  Live: https://sheltered-brushlands-28733.herokuapp.com/
+  Live: https://sheltered-brushlands-28733.herokuapp.com/ (Not active)
 
 ### 3. SpaceX Launch Programs (React version)
   Repo: https://github.com/NandKumarGangai/spacex-launch-info
