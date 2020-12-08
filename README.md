@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ### 4. SpaceX Launch Programs (NextJS version)
   Repo: https://github.com/NandKumarGangai/spacex-launch-programs
 
-  Live: https://spacex-launch-programs9.herokuapp.com/
+  Live: ~~https://spacex-launch-programs9.herokuapp.com/~~ (Inactive)
 
 ### 4. Image Gallary
   Repo: https://github.com/NandKumarGangai/image-gallary
