@@ -22,10 +22,15 @@ Here are some ideas to get you started:
 
   Live: https://immense-tundra-92559.herokuapp.com/
 
-### 2. Group Chat App
-  Repo: Client -> https://github.com/NandKumarGangai/chat-client Server -> https://github.com/NandKumarGangai/chat-server
+[//]: <> ### 2. Group Chat App
+  [//]: <> Repo: Client -> https://github.com/NandKumarGangai/chat-client Server -> https://github.com/NandKumarGangai/chat-server
 
-  Live: https://sheltered-brushlands-28733.herokuapp.com/ (Not active)
+  [//]: <> Live: https://sheltered-brushlands-28733.herokuapp.com/ (Not active)
+  
+###2 . P2P Video call app
+  Code: https://github.com/NandKumarGangai/video_chat_app
+
+  Live: https://ng-video-room.netlify.app/
 
 ### 3. SpaceX Launch Programs (React version)
   Repo: https://github.com/NandKumarGangai/spacex-launch-info
