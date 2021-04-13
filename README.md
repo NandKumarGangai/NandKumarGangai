@@ -1,12 +1,26 @@
 ## Hi there my name is Nandkumar Gangai.
-- 🔭 I’m currently working on JavaScript, HTML5, CSS3, React JS, Redux, NodeJS, Express and MongoDB.
+- 🔭 Tech stack
+* React JS
+* Redux
+* JavaScript
+* Node JS
+* Express
+* TypeScript 
+* MongoDB
+* NoSQL
+* Mongoose
+* Jest + Enzyme
+* Cypress
+* Java
+* C
+
 <!--
 **NandKumarGangai/NandKumarGangai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on React JS and Node JS.
+- 🌱 I’m currently learning NoSQL and Javascript backend technologies.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
