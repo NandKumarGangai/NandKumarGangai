@@ -32,7 +32,8 @@ Here are some ideas to get you started:
   https://github.com/NandKumarGangai/front-end-mentor-challenges/blob/master/README.md
   
 ### 1. Expense Tracker
-  Repo: Client -> https://github.com/NandKumarGangai/expense-tracker-ui Server -> https://github.com/NandKumarGangai/expense-tracker-server
+  Repo: Client -> https://github.com/NandKumarGangai/expense-tracker-ui  
+  Server -> https://github.com/NandKumarGangai/expense-tracker-server
 
   Live: https://immense-tundra-92559.herokuapp.com/
 
@@ -41,7 +42,7 @@ Here are some ideas to get you started:
 
   [//]: <> Live: https://sheltered-brushlands-28733.herokuapp.com/ (Not active)
   
-###2 . P2P Video call app
+### 2 . P2P Video call app
   Code: https://github.com/NandKumarGangai/video_chat_app
 
   Live: https://ng-video-room.netlify.app/
@@ -50,12 +51,12 @@ Here are some ideas to get you started:
   Repo: https://github.com/NandKumarGangai/spacex-launch-info
 
   Live: https://nandkumargangai.github.io/spacex-launch-info/
-
+<!--
 ### 4. SpaceX Launch Programs (NextJS version)
   Repo: https://github.com/NandKumarGangai/spacex-launch-programs
 
   Live: ~~https://spacex-launch-programs9.herokuapp.com/~~ (Inactive)
-
+-->
 ### 4. Image Gallary
   Repo: https://github.com/NandKumarGangai/image-gallary
 
@@ -67,6 +68,6 @@ Here are some ideas to get you started:
   Live: https://nandkumargangai.github.io/carousel_slider/
   
 
-**Codepen profile: https://codepen.io/nandkumar_gangai/**
-
+**Codepen profile: https://codepen.io/nandkumar_gangai/**  
+**LinkedIn: https://in.linkedin.com/in/nandkumar-gangai-910849123**  
 **Freecodecamp profile: https://www.freecodecamp.org/nandkumar_gangai**
