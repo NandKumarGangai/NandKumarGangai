@@ -1,4 +1,4 @@
-## Hi there my name is Nandkumar Gangai.
+## Hi I am Nandkumar Gangai.
 - 🔭 Tech stack
 * React JS
 * Redux
