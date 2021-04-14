@@ -1,4 +1,4 @@
-## Hi I am Nandkumar Gangai.  
+## Hi I am Nandkumar Gangai!  
   A Software Engineer specializing in JavaScript technologies. Professional experience with the technologies listed in the toolbox below.
 
 ---
