@@ -1,5 +1,13 @@
 ## Hi I am Nandkumar Gangai.
 - 🔭 Tech stack
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS#" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React JS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="Node JS" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express JS" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+<!--
 * React JS
 * Redux
 * JavaScript
@@ -13,7 +21,7 @@
 * Cypress
 * Java
 * C
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/>
+* -->
 
 <!--
 **NandKumarGangai/NandKumarGangai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
