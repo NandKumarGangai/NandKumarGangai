@@ -1,5 +1,8 @@
-## Hi I am Nandkumar Gangai.
-A Software Engineer specializing in JavaScript technologies. Professional experience with the technologies listed in the toolbox below.
+## Hi I am Nandkumar Gangai.  
+  A Software Engineer specializing in JavaScript technologies. Professional experience with the technologies listed in the toolbox below.
+
+---
+
 - 🔭 **Toolbox**  
 
 
@@ -10,6 +13,9 @@ A Software Engineer specializing in JavaScript technologies. Professional experi
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express JS" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+
+---
+
 <!--
 * React JS
 * Redux
