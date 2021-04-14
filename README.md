@@ -13,6 +13,7 @@
 * Cypress
 * Java
 * C
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/>
 
 <!--
 **NandKumarGangai/NandKumarGangai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
