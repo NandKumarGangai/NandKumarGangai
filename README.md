@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   Repo: Client -> https://github.com/NandKumarGangai/expense-tracker-ui  
   Server -> https://github.com/NandKumarGangai/expense-tracker-server
 
-  Live: https://immense-tundra-92559.herokuapp.com/
+  Live: https://expense-tracker-ng.netlify.app/
 <!--
 #### 2. Group Chat App
 Repo: Client -> https://github.com/NandKumarGangai/chat-client  
