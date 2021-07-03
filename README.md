@@ -81,7 +81,10 @@ Live: https://sheltered-brushlands-28733.herokuapp.com/ (Not active)
 
   Live: https://nandkumargangai.github.io/my-image-gallary/
   
-#### 5. Carousel Slider
+#### 5. CS Computers SPA with neumorphism design pattern 
+  Live: https://cscomputers.netlify.app/  
+  
+#### 6. Carousel Slider
   Repo: https://github.com/NandKumarGangai/carousel_slider
 
   Live: https://nandkumargangai.github.io/carousel_slider/
