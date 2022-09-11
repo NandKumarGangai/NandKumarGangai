@@ -3,6 +3,25 @@
 
 ---
 
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="">
+<a href="https://in.linkedin.com/in/nandkumar-gangai-910849123">
+   <img src="https://img.shields.io/badge/-Nandkumar%20Gangai-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/nandkumargangai/">
+  <img src="https://img.shields.io/badge/-@nandkumargangai-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+</a>&nbsp;&nbsp;
+<a href="https://hashnode.com/@ngangai">
+  <img src="https://img.shields.io/badge/-@ngangai-2962FF?style=flat&logo=hashnode&logoColor=white"/>
+</a>&nbsp;&nbsp;
+<a href="https://mobile.twitter.com/gangainandkumar">
+  <img src="https://img.shields.io/badge/-@gangainandkumar-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
+</a>&nbsp;&nbsp;
+</p>
+
+---
+
 ### 🛠 &nbsp;Tech Stack 
 <!--
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS#" width="50" height="50"/>
@@ -67,18 +86,18 @@ Here are some ideas to get you started:
 #### 0. Front End Mentor Challenges
   https://github.com/NandKumarGangai/front-end-mentor-challenges/blob/master/README.md
   
-#### 1. Expense Tracker
+#### 1. Expense Tracker (Not working due to environment issue.)
   Repo: Client -> https://github.com/NandKumarGangai/expense-tracker-ui  
   Server -> https://github.com/NandKumarGangai/expense-tracker-server
 
   Live: https://expense-tracker-ng.netlify.app/
 <!--
-#### 2. Group Chat App
+#### 2. Group Chat App 
 Repo: Client -> https://github.com/NandKumarGangai/chat-client  
 Server -> https://github.com/NandKumarGangai/chat-server  
 Live: https://sheltered-brushlands-28733.herokuapp.com/ (Not active)
   -->
-#### 2 . P2P Video call app
+#### 2 . P2P Video call app (Not working due to environment issue.)
   Code: https://github.com/NandKumarGangai/video_chat_app
 
   Live: https://ng-video-room.netlify.app/
