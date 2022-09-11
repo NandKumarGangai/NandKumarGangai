@@ -86,9 +86,9 @@ Here are some ideas to get you started:
 #### 0. Front End Mentor Challenges
   https://github.com/NandKumarGangai/front-end-mentor-challenges/blob/master/README.md
   
-#### 1. Expense Tracker (Not working due to environment issue.)
-  Repo: Client -> https://github.com/NandKumarGangai/expense-tracker-ui  
-  Server -> https://github.com/NandKumarGangai/expense-tracker-server
+#### 1. All about crypto universe
+  Repo -> https://github.com/NandKumarGangai/all-about-crypto-universe
+  Preview -> [https://github.com/NandKumarGangai/expense-tracker-server](https://nandkumargangai.github.io/all-about-crypto-universe/)
 
 <!--  
 #### 1. Expense Tracker (Not working due to environment issue.)
