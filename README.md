@@ -1,5 +1,5 @@
 <h1 align="">Hi 👋, I'm Nandkumar Gangai</h1>
-<h3 align="">Software Engineer at E-Zest Solutions, Pune.</h3>
+<h3 align="">Senior Software Engineer at Accenture India, Pune.</h3>
 
 ---
 
@@ -87,15 +87,15 @@ Here are some ideas to get you started:
   https://github.com/NandKumarGangai/front-end-mentor-challenges/blob/master/README.md
   
 #### 1. All about crypto universe
-  Repo -> https://github.com/NandKumarGangai/all-about-crypto-universe
-  Preview -> [https://github.com/NandKumarGangai/expense-tracker-server](https://nandkumargangai.github.io/all-about-crypto-universe/)
+  Repo -> https://github.com/NandKumarGangai/all-about-crypto-universe  
+  Preview -> [https://github.com/NandKumarGangai/expense-tracker-server](https://nandkumargangai.github.io/all-about-crypto-universe/)  
 
 <!--  
 #### 1. Expense Tracker (Not working due to environment issue.)
   Repo: Client -> https://github.com/NandKumarGangai/expense-tracker-ui  
   Server -> https://github.com/NandKumarGangai/expense-tracker-server
 -->
-  Live: https://expense-tracker-ng.netlify.app/
+
 <!--
 #### 2. Group Chat App 
 Repo: Client -> https://github.com/NandKumarGangai/chat-client  
