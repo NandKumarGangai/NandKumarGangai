@@ -6,7 +6,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="">
-<a href="https://in.linkedin.com/in/nandkumar-gangai-910849123">
+<a href="https://in.linkedin.com/in/nandkumar-gangai">
    <img src="https://img.shields.io/badge/-Nandkumar%20Gangai-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/nandkumargangai/">
@@ -90,6 +90,11 @@ Here are some ideas to get you started:
   Repo: Client -> https://github.com/NandKumarGangai/expense-tracker-ui  
   Server -> https://github.com/NandKumarGangai/expense-tracker-server
 
+<!--  
+#### 1. Expense Tracker (Not working due to environment issue.)
+  Repo: Client -> https://github.com/NandKumarGangai/expense-tracker-ui  
+  Server -> https://github.com/NandKumarGangai/expense-tracker-server
+-->
   Live: https://expense-tracker-ng.netlify.app/
 <!--
 #### 2. Group Chat App 
@@ -133,7 +138,7 @@ Live: https://sheltered-brushlands-28733.herokuapp.com/ (Not active)
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="">
-<a href="https://in.linkedin.com/in/nandkumar-gangai-910849123">
+<a href="https://in.linkedin.com/in/nandkumar-gangai">
    <img src="https://img.shields.io/badge/-Nandkumar%20Gangai-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/nandkumargangai/">
