@@ -88,7 +88,7 @@ Here are some ideas to get you started:
   
 #### 1. All about crypto universe
   Repo -> https://github.com/NandKumarGangai/all-about-crypto-universe  
-  Preview -> https://nandkumargangai.github.io/all-about-crypto-universe/  
+  Preview -> <a href="[http://example.com/](https://nandkumargangai.github.io/all-about-crypto-universe/)" target="_blank">https://nandkumargangai.github.io/all-about-crypto-universe/</a>  
 
 <!--  
 #### 1. Expense Tracker (Not working due to environment issue.)
