@@ -88,7 +88,7 @@ Here are some ideas to get you started:
   
 #### 1. All about crypto universe
   Repo -> https://github.com/NandKumarGangai/all-about-crypto-universe  
-  Preview -> [https://github.com/NandKumarGangai/expense-tracker-server](https://nandkumargangai.github.io/all-about-crypto-universe/)  
+  Preview -> https://nandkumargangai.github.io/all-about-crypto-universe/  
 
 <!--  
 #### 1. Expense Tracker (Not working due to environment issue.)
