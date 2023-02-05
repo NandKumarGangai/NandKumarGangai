@@ -1,5 +1,5 @@
 <h1 align="">Hi 👋, I'm Nandkumar Gangai</h1>
-<h3 align="">Senior Software Engineer at Accenture India, Pune.</h3>
+<h3 align="">Software Development Senior Analyst at Accenture India, Pune.</h3>
 
 ---
 
